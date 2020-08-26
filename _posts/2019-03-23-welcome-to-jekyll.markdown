@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Hi, I am Qianhui Liu"
+- date:   2019-03-23 21:03:36 +0530
+- categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+I am a second-year graduate student in Information Management Department, Peking University, China. My currently research interest is learning analytics, advised by Prof.Win-Bin Huang. I am going to graduate from the Master of of Information Management at Peking University in Jun 2021, and I am looking for Ph.D. positions concerning data science in education.
 
 ```javascript
 const Razorpay = require('razorpay');
